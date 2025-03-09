@@ -1,1 +1,1 @@
-sample,
+sample,https://raw.githubusercontent.com/ehcfbi/PikkoKnife-project/refs/heads/main/sample/pikko.png
