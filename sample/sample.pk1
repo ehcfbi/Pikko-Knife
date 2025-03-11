@@ -1,1 +1,1 @@
-sample,1!https://raw.githubusercontent.com/ehcfbi/PikkoKnife-project/refs/heads/main/sample/pikko.sprite3,4!if?press?key_left?pikko?move.left!if?press?key_right?pikko?move.right
+sample,1!https://raw.githubusercontent.com/ehcfbi/PikkoKnife-project/refs/heads/main/sample/pikko 500×500.png,4!if?press?key_left?1?move.left!if?press?key_right?1?move.right
