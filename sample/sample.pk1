@@ -1,1 +1,2 @@
-sample,1!https://raw.githubusercontent.com/ehcfbi/PikkoKnife-project/refs/heads/main/sample/pikko 500×500.png,4!if?press?key_left?1?move.left!if?press?key_right?1?move.right
+loadimg!test.png!1;
+putact!1!0,0;
